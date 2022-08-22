@@ -7,7 +7,6 @@
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=akash22-03&label=Profile%20views&color=0e75b6&style=flat" alt="Akash Dash" /> </p>-->
 
 - 🌱 I’m currently learning **Data Analysis as an Intern**
-- 🔭 I’m currently working on **React and Node.js**
 - 👯 I’m looking to collaborate on **Projects**
 - 👨‍💻 All of my projects are available at [github.com/Dibyajit-Mohanty](https://github.com/Dibyajit-Mohanty)
 - 📫 How to reach me **mohantydibyajit41@gmail.com**
